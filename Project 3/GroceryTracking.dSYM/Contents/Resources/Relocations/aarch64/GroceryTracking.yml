@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nahomhaile/Documents/ProgrammingLanguages/Project 3/GroceryTracking'
+relocations:     []
+...
